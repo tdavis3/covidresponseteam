@@ -1,4 +1,4 @@
-baseURL = "www.covidresponseteamrva.com"
+baseURL = "http://www.covidresponseteamrva.com"
 languageCode = "en-us"
 title = "COVID Response Team - Richmond, Virginia"
 themesDir = "themes"

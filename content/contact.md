@@ -5,7 +5,13 @@ layout: contact
 menu: 'main'
 ---
 
-Our hours of operation are below:
+## Address:
+P.O. Box 42371 Richmond, VA 23242
+
+## Our hours of operation:
+We are available 24/7.
+
+<!--
 
 | Day       |      Hours      |
 | --------- | --------------- |
@@ -16,3 +22,5 @@ Our hours of operation are below:
 | Friday    | 8:00am - 5:00pm |
 | Saturday | 10:00am - 4:00pm |
 | Sunday  | Closed          |
+
+-->

@@ -8,3 +8,5 @@ intro_image_hide_on_mobile: true
 # COVID Response Team
 
 ## We provide viral disinfection services with particular focus on COVID-19 across Richmond, Virgina and surrounding counties.
+
+## Single, Daily, Weekly, and Monthly treatments offered!

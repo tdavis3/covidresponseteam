@@ -3,28 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.covidresponseteamrva.com/team/peter-van-eijk/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.covidresponseteamrva.com/team/sage-kirk/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.covidresponseteamrva.com/services/treatments/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.covidresponseteamrva.com/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.covidresponseteamrva.com/team/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
@@ -51,6 +36,10 @@
   
   <url>
     <loc>http://www.covidresponseteamrva.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.covidresponseteamrva.com/team/</loc>
   </url>
   
 </urlset>

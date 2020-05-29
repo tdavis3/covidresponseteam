@@ -1,0 +1,13 @@
+<div class='header'>
+  <div class="container">
+    <div class="logo" style="width:230px">
+      <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.standard | relURL }}" /></a>
+<!--      <a href="{{ .Site.BaseURL }}">COVID Response Team</a>-->
+    </div>
+    <div class="logo-mobile">
+      <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.mobile | relURL }}" /></a>
+    </div>
+    {{ partial "main-menu.html" . }}
+    {{ partial "hamburger.html" . }}
+  </div>
+</div>
